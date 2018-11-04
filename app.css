@@ -48,6 +48,12 @@ body {
     background-color: #d32f2f;
 }
 
+}
+
+#xinjiang {
+    background-color: #80000;
+}
+
 .destination:hover h2 {
     transform: rotate(0deg);
 }
